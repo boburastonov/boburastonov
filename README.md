@@ -4,7 +4,7 @@
 
 
 
-🌱 Men hozirda **HTML, CSS, SASS, Bootstrap, JavaScript, React Js, Angular Js** larni o'rganib kelmoqdaman.
+🌱 Men hozirda ** HTML, CSS, SASS, Bootstrap, JavaScript, React Js, Redux, TypeScript ** larni o'rganib kelmoqdaman.
 
 [💼 Portfolio](https://boburastonov.netlify.app) | [💬 Telegram](https://t.me/Positive_person_1) | 📧 boburastonov30@gmail.com
 
