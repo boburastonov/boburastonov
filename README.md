@@ -50,7 +50,7 @@
 ## Sahifalar
 <p align="left">
 <a href="https://twitter.com/astonovbobur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astonovbobur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/boburastonv33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boburastonv33" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/boburastonv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boburastonv33" height="30" width="40" /></a>
 <a href="https://codesandbox.com/boburastonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="boburastonov" height="30" width="40" /></a>
 <a href="https://instagram.com/developer6606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer6606" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/astonov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astonov1" height="30" width="40" /></a>
