@@ -27,9 +27,9 @@
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
         </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.typescriptlang.org/assets/images/logos/typescript/typescript.svg" alt="typescript" width="40" height="40"/> 
-        </a>
+       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+       </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
         </a>
@@ -49,7 +49,11 @@
 
 ## Sahifalar
 <p align="left">
-<a href="https://instagram.com/boburastonov32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boburastonov32" height="30" width="40" /></a>
+<a href="https://twitter.com/astonovbobur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astonovbobur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/boburastonv33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boburastonv33" height="30" width="40" /></a>
+<a href="https://codesandbox.com/boburastonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="boburastonov" height="30" width="40" /></a>
+<a href="https://instagram.com/developer6606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer6606" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/astonov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astonov1" height="30" width="40" /></a>
 </p>
 
 ## GitHub statistikasi
